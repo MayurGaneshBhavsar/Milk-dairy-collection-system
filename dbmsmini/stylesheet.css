@@ -1,0 +1,36 @@
+body{
+    text-align:center;
+    background-color: lightyellow;
+}
+#headersection{
+    padding: auto;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: medium;
+}
+#dropbox{
+    padding: 5px;
+    border-radius: 5px;
+    width: 15%;
+}
+#login{
+    width: 10%;
+    border-radius:5px;
+    background-color: blue;
+    color: aliceblue;
+}
+#Register{
+    width: 10%;
+    border-radius:5px;
+    background-color:blue;
+    color: aliceblue;
+}
+#border{
+    text-align: center;
+    width: 30px;
+    border-radius: 5px;
+    height: 55px;
+}
+
